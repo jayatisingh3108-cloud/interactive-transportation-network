@@ -1,5 +1,3 @@
-# interactive-transportation-network
-A Java-based application demonstrating graph algorithms through a transportation network of cities and roads.
 # Interactive Transportation Network Application
 
 A Java-based application demonstrating graph algorithms through a transportation network of cities and roads.
